@@ -35,7 +35,7 @@ Developed a risk assessment application by handling data processing pipelines an
 
 ```
 https://github.com/AramNguyen/Studyyyy
-The place i take note every lesson that i learn and the way of the EDA - Processing experience
+The space where I take notes for every lesson and document my EDA and data processing workflows
 ```
 
 ---
