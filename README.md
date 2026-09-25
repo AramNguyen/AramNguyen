@@ -1,4 +1,4 @@
-# Hi, I'm Nguyen Ngoc Hung Dan 👋
+# Hi, I'm Hung Dan Nguyen Ngoc (Aram) 
 
 [![Mathematics & Computer Science](https://img.shields.io/badge/Mathematics%20%26%20Computer%20Science-Student-003B73)](https://www.hcmus.edu.vn/)
 [![Data Science](https://img.shields.io/badge/Specialization-Data%20Science-003B73)]()
