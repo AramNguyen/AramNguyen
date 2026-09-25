@@ -68,4 +68,4 @@ The space where I take notes for every lesson and document my EDA and data proce
 
 [github.com/]([https://github.com/)[AramNguyen](https://github.com/AramNguyen)] 
 
-[linkedin.com/in/hung-dan-nguyen-ngoc]((https://www.linkedin.com/in/hung-dan-nguyen-ngoc-258765432/))
+[linkedin.com]((https://www.linkedin.com/in/hung-dan-nguyen-ngoc-258765432/))
