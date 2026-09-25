@@ -66,6 +66,6 @@ The space where I take notes for every lesson and document my EDA and data proce
 
 ## Connect With Me
 
-GitHub → *github.com/[AramNguyen]*
+[github.com/](https://github.com/)[AramNguyen]
 
-LinkedIn → *linkedin.com/in/hung-dan-nguyen-ngoc-258765432/*
+[linkedin.com/in/hung-dan-nguyen-ngoc](https://linkedin.com/in/hung-dan-nguyen-ngoc)
