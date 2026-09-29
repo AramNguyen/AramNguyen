@@ -15,10 +15,10 @@ Currently building my skills through rigorous academic study, competitive progra
 
 ## Tech Stack & Tools
 
-- **Languages:** Python, C/C++, SQL
+- **Languages:** Python, C/C++, SQL, JavaScript
 - **Data & Machine Learning:** Pandas, NumPy, Scikit-learn, PyTorch
 - **Data Visualization & Web App:** Matplotlib, Seaborn, Streamlit
-- **Environments & Tools:** Linux (WSL / Ubuntu), Git / GitHub, npm, Jupyter Notebook
+- **Environments & Tools:** Linux (WSL / Ubuntu), Git / GitHub, Node.js / npm, Jupyter Notebook
 
 ## Current Focus & Practice
 
