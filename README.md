@@ -13,13 +13,17 @@ Currently building my skills through rigorous academic study, competitive progra
 
 ---
 
-## Currently Learning & Practicing
+## Tech Stack & Tools
 
-- **Programming:** C and Python
-- **Development Environment:** VS Code, WSL Ubuntu, Linux Terminal, Git/GitHub
+- **Languages:** Python, C/C++, SQL
+- **Data & Machine Learning:** Pandas, NumPy, Scikit-learn, PyTorch
+- **Data Visualization & Web App:** Matplotlib, Seaborn, Streamlit
+- **Environments & Tools:** Linux (WSL / Ubuntu), Git / GitHub, npm, Jupyter Notebook
+
+## Current Focus & Practice
+
 - **Problem Solving:** Data Structures & Algorithms (Active on VNOJ & 28tech OJ)
-- **Core Focus:** Mathematical foundations for Data Science and Machine Learning
-
+- **Core Study:** Mathematical Foundations for Data Science & Machine Learning
 ---
 
 ## Featured Projects & Plans
