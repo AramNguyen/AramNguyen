@@ -4,6 +4,9 @@
 [![Data Science](https://img.shields.io/badge/Specialization-Data%20Science-003B73)]()
 [![Python](https://img.shields.io/badge/Python-Learning-6A0DAD?logo=python)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-Learning-38BDF8?logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
+![C++](https://img.shields.io/badge/C%2B%2B-Learning-00599C?logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Practicing-CC292B?logo=sqlite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Learning-F7DF1E?logo=javascript&logoColor=black)
 
 *First-year Mathematics & Computer Science student @ VNUHCM - University of Science (HCMUS) | Specializing in Data Science*
 
