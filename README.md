@@ -48,7 +48,7 @@ The space where I take notes for every lesson and document my EDA and data proce
 ## Technologies & Interests
 
 *Programming & Tools*
-- Python • C
+- Python • C/C++ • SQL 
 - Linux (Ubuntu/WSL) • Git/GitHub
 
 *Domains of Interest*
